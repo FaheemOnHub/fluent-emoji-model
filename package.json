@@ -1,0 +1,9 @@
+{
+  "name": "fluent-emoji-model",
+  "version": "1.0.0",
+  "description": "Microsoft Fluent Emoji SVG collection for Meshery annotations",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FaheemOnHub/fluent-emoji-model.git"
+  }
+}
